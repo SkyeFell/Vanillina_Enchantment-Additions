@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "site.vheart.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"PlayerMixin",
+		"EnchantmentMenuMixin",
+		"AbstractContainerMenuMixin",
+		"CactusBlockMixin",
+		"LecternBlockEntityMixin",
+		"LecternBlockMixin",
+		"GrindstoneMenuMixin",
+		"SheepMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

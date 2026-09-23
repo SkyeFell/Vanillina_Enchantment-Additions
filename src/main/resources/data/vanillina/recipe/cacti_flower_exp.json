@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": "minecraft:cactus_flower",
+  "result": {
+    "id": "minecraft:dead_bush"
+  },
+  "experience": 500,
+  "cookingtime": 200
+}
