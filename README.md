@@ -12,6 +12,19 @@
 
 *Improves the enchanting system in a way that makes the game less grindy and more relaxing.*
 
+## Features:
+- Regrowing Cactus Flowers (on 3-tall Cacti)
+- Shove Cactus Flowers in a Smoker to extract tons of experience!
+- Smoke Rotten Flesh to make Leather
+- Make Paper with Bamboo
+- Reroll enchantments inside Enchanting Tables with Gold Nuggets
+- Place Enchanted Books on Lecterns to ...
+    - ... copy enchantments by right clicking while holding a Book
+    - ... split enchantments by right clicking with a Golden Axe
+- Enchant Shears with Fortune
+- Enchant Sticks with Knockback
+- Infinity and Mending are now compatible
+
 ---
 
 >![icon](./icons/vanillina_family-icon.png)
